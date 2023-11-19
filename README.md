@@ -1,7 +1,5 @@
 # How to add sounds
 
-You can make pull requests with new sounds anytime. This is how you do it:
-
 1. Create a mp3 file; naming convention: everything lower-case, no special characters, dashes for spaces
 2. Add the mp3 file in the `sounds` folder
 3. Open the index.html file and add the sound in the `sounds` array. The array has to have two elements, a) the label and b) the person speaking. The label should have a connection to the filename. Example:
