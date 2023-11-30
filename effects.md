@@ -18,19 +18,19 @@
 | 🎤 | ’Evil Like Me’ | | |
 | 🎤 | ’I’M A Believer’ | | |
 | 🎤 | Revolting Children | | |
-| 🔈 | A Ghostly Wail In The Distance | | |
-| 🔈 | Avalanche Sound Effect | | |
-| 🔈 | Castle Door Knock | | |
+| 🔈 | A Ghostly Wail In The Distance |ghost-wail |[/]|
+| 🔈 | Avalanche Sound Effect |avalanch |[/]|
+| 🔈 | Castle Door Knock |door-bang |[/]|
 | 🔈 | Drumrolls | drum-roll | [/] |
-| 🔈 | Evil Sting | | |
+| 🔈 | Evil Sting |evil-sting |[/]|
 | 🔈 | Joke Sting |rimshot |[/]|
 | 🔈 | Ominous Magical Underscore | creepy-soundscape | [/] |
 | 🔈 | Race Car And Screech To Stop | car-screech-brake | [/] |
-| 🔈 | Rocky Music | | |
+| 🔈 | Rocky Music | |[/] |
 | 🔈 | School Bell |school-bell |[/]|
-| 🔈 | Thump Of Parcel Landing | | |
+| 🔈 | Thump Of Parcel Landing |box-crash |[/]|
 | 🔈 | Triumphant Musical Sting |triumphant |[/] |
-| 🔈 | Van Locking | | |
-| 🔈 | Van Reversing And Van Door Close | | |
-| 🔈 | ‘Ghost Busters’ | | |
+| 🔈 | Van Locking |van-lock |[/]|
+| 🔈 | Van Reversing And Van Door Close |van-reverse |[/]|
+| 🔈 | ‘Ghost Busters’ | |[/] |
 | 🔈 | Police Theme Tune | | |
